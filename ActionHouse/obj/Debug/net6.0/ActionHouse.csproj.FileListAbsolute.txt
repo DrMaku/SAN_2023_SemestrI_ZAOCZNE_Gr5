@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ActionHouse.exe
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ActionHouse.deps.json
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ActionHouse.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ActionHouse.dll
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ref\ActionHouse.dll
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\bin\Debug\net6.0\ActionHouse.pdb
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.dll
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ref\ActionHouse.dll
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.pdb
+C:\Users\Lenovo\source\repos\ActionHouse\ActionHouse\obj\Debug\net6.0\ActionHouse.genruntimeconfig.cache
